@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: b65d99738eb8e4d6a9307847385b803b
+timeCreated: 1455484486
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: forest-2_0
+    21300002: forest-2_1
+    21300004: forest-2_2
+    21300006: forest-2_3
+    21300008: forest-2_4
+    21300010: forest-2_5
+    21300012: forest-2_6
+    21300014: forest-2_7
+    21300016: forest-2_8
+    21300018: forest-2_9
+    21300020: forest-2_10
+    21300022: forest-2_11
+    21300024: forest-2_12
+    21300026: forest-2_13
+    21300028: forest-2_14
+    21300030: forest-2_15
+    21300032: forest-2_16
+    21300034: forest-2_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: forest-2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 256
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110, y: 97}
+        - {x: 97, y: 107}
+        - {x: 87, y: 120}
+        - {x: 83, y: 120}
+        - {x: 77, y: 118}
+        - {x: 78, y: 124}
+        - {x: 72, y: 136}
+        - {x: 61, y: 135}
+        - {x: 46, y: 148}
+        - {x: 37, y: 152}
+        - {x: 38, y: 160}
+        - {x: 36, y: 162}
+        - {x: 28, y: 160}
+        - {x: 23, y: 168}
+        - {x: 17, y: 175}
+        - {x: 9, y: 179}
+        - {x: 2, y: 177}
+        - {x: -2, y: 182}
+        - {x: -7, y: 184}
+        - {x: -20, y: 187}
+        - {x: -30, y: 190}
+        - {x: -35, y: 195}
+        - {x: -39, y: 198}
+        - {x: -87, y: 198}
+        - {x: -93, y: 197}
+        - {x: -99, y: 198}
+        - {x: -102, y: 198}
+        - {x: -112, y: 197}
+        - {x: -115, y: 192}
+        - {x: -118, y: 198}
+        - {x: -123, y: 198}
+        - {x: -128, y: 194}
+        - {x: -128, y: -198}
+        - {x: 128, y: -198}
+        - {x: 128, y: 80}
+        - {x: 126, y: 85}
+    - name: forest-2_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 718
+        width: 256
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 16}
+        - {x: 46, y: 20}
+        - {x: 31, y: 31}
+        - {x: 20, y: 31}
+        - {x: -32, y: 56}
+        - {x: -36, y: 63}
+        - {x: -53, y: 77}
+        - {x: -62, y: 81}
+        - {x: -74, y: 95}
+        - {x: -90, y: 104}
+        - {x: -103, y: 122}
+        - {x: -108, y: 124}
+        - {x: -122, y: 137}
+        - {x: -128, y: 137}
+        - {x: -128, y: -137}
+        - {x: 128, y: -137}
+        - {x: 128, y: 1}
+        - {x: 127, y: 4}
+    - name: forest-2_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 736
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: forest-2_3
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 736
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 128}
+        - {x: -64, y: 102}
+        - {x: -61, y: 98}
+        - {x: -64, y: 92}
+        - {x: -64, y: -128}
+        - {x: 64, y: -128}
+        - {x: 64, y: 128}
+    - name: forest-2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+    - name: forest-2_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 449
+        width: 256
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 73}
+        - {x: -7, y: 69}
+        - {x: -27, y: 67}
+        - {x: -34, y: 70}
+        - {x: -50, y: 69}
+        - {x: -81, y: 68}
+        - {x: -105, y: 67}
+        - {x: -115, y: 61}
+        - {x: -117, y: 66}
+        - {x: -122, y: 68}
+        - {x: -128, y: 61}
+        - {x: -128, y: -73}
+        - {x: 128, y: -73}
+        - {x: 128, y: 73}
+    - name: forest-2_6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 455
+        width: 256
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: 70}
+        - {x: 82, y: 65}
+        - {x: 54, y: 70}
+        - {x: -128, y: 70}
+        - {x: -128, y: -70}
+        - {x: 128, y: -70}
+        - {x: 128, y: 66}
+        - {x: 123, y: 70}
+    - name: forest-2_7
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 455
+        width: 139
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.5, y: 70}
+        - {x: -69.5, y: 59}
+        - {x: -69.5, y: -70}
+        - {x: 69.5, y: -70}
+        - {x: 69.5, y: 70}
+    - name: forest-2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 64}
+        - {x: -128, y: -64}
+        - {x: 128, y: -64}
+        - {x: 128, y: 64}
+    - name: forest-2_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 210
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 64}
+        - {x: -128, y: -64}
+        - {x: 128, y: -64}
+        - {x: 128, y: 64}
+    - name: forest-2_10
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 210
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -63}
+        - {x: -63, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: forest-2_11
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 210
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: forest-2_12
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 210
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: forest-2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 141
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 98}
+        - {x: 23.5, y: 104}
+        - {x: -20.5, y: 104}
+        - {x: -65.5, y: 55}
+        - {x: -70.5, y: -45}
+        - {x: -70.5, y: -82}
+        - {x: -47.5, y: -102}
+        - {x: -34.5, y: -104}
+        - {x: 4.5, y: -104}
+        - {x: 26.5, y: -85}
+        - {x: 70.5, y: 22}
+        - {x: 70.5, y: 67}
+    - name: forest-2_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 62
+        width: 137
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 73.5}
+        - {x: -45.5, y: 69.5}
+        - {x: -68.5, y: 47.5}
+        - {x: -68.5, y: -29.5}
+        - {x: -61.5, y: -73.5}
+        - {x: 68.5, y: -73.5}
+        - {x: 68.5, y: 73.5}
+    - name: forest-2_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 69
+        width: 137
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.5, y: 70}
+        - {x: -68.5, y: 59}
+        - {x: -68.5, y: 14}
+        - {x: -61.5, y: -70}
+        - {x: 68.5, y: -70}
+        - {x: 68.5, y: 70}
+    - name: forest-2_16
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 69
+        width: 137
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 69.5}
+        - {x: -44.5, y: 63.5}
+        - {x: -68.5, y: 44.5}
+        - {x: -68.5, y: -10.5}
+        - {x: -61.5, y: -69.5}
+        - {x: 68.5, y: -69.5}
+        - {x: 68.5, y: 69.5}
+    - name: forest-2_17
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 4
+        width: 212
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

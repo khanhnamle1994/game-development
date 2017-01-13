@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6FCCB61E-274B-5183-1E3D-576F8767C8E5}") = "ComputerGraphics3D", "Assembly-CSharp.csproj", "{A618B625-FD39-D867-FF10-85CE28F13595}"
+EndProject
+Project("{6FCCB61E-274B-5183-1E3D-576F8767C8E5}") = "ComputerGraphics3D", "Assembly-CSharp-Editor.csproj", "{F46CF175-3EB7-C1CE-EBDB-79D3C71B155E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A618B625-FD39-D867-FF10-85CE28F13595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A618B625-FD39-D867-FF10-85CE28F13595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A618B625-FD39-D867-FF10-85CE28F13595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A618B625-FD39-D867-FF10-85CE28F13595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F46CF175-3EB7-C1CE-EBDB-79D3C71B155E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F46CF175-3EB7-C1CE-EBDB-79D3C71B155E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F46CF175-3EB7-C1CE-EBDB-79D3C71B155E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F46CF175-3EB7-C1CE-EBDB-79D3C71B155E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
